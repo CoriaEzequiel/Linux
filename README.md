@@ -176,4 +176,6 @@ minúscula)
 97. Monitorear la ocupación de las particiones en los discos
 98. ¿Cual es el proceso que más carga el procesador?
 99. ¿Está corriendo el proceso bash?
-100. ¿Cuántos procesos que empiecen por k están corriendo
+100. ¿Cuántos procesos que empiecen por k están corriendo?
+
+101. 
